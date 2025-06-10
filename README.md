@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/degenlend-prod?style=for-the-badge)
+
 ## Getting Started
 
 First, run the development server:
